@@ -54,8 +54,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\Bird.cs" />
+     <Compile Include="Assets\Script\Destroyer.cs" />
+     <Compile Include="Assets\Script\Enemy.cs" />
      <Compile Include="Assets\Script\GameController.cs" />
      <Compile Include="Assets\Script\SlingShooter.cs" />
+     <Compile Include="Assets\Script\TrailController.cs" />
+     <Compile Include="Assets\Script\YellowBird.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/MUSLIMA/Documents/GitHub/Chapter5-AngryBird/Chapter5-AngryBird-Muslimah439/AngryBird/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
